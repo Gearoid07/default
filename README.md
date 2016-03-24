@@ -1,2 +1,2 @@
 # default
-Absolutely nothin' so far haha!
+_blank
